@@ -142,7 +142,7 @@ fun EditNumberField(
 
 }
 
-private fun CalculateMonto(
+fun CalculateMonto(
     precio: Double,
     cantLitros: Double,
     propina: Double,
